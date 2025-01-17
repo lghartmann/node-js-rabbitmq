@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=Cie5v59mrTg
 
 to create a basic rabbitmq server with a publisher and a consumer.
 
+I also found in another video (https://www.youtube.com/watch?v=2YWHtbZJ0QI, it's in portuguese) about `https://tryrabbitmq.com/`, a great way to play with how rabbit mq's excahnges work.
+
 # Setup
 
 first you need docker:
